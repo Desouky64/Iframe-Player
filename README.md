@@ -1,4 +1,4 @@
-# Ad-Free Iframe Player
+# Iframe Player
 
 > A lightweight web application that takes standard iframe media snippets and renders them in a clean, ad-free environment for uninterrupted viewing.
 
